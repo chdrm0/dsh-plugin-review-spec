@@ -1,0 +1,6 @@
+# Self-activation patch: installing this bundle into a profile mounts the
+# /review and /spec host commands from index.js.
+- insert:
+    - id: review-spec-commands
+      name: 'dsh-plugin-review-spec'
+      config: {}

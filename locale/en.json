@@ -1,0 +1,1 @@
+{ "meta": { "title": "Review & Spec Commands", "description": "Host-side /review and /spec slash commands that assemble a payload and delegate judgement to a subagent." } }
